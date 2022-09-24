@@ -1,0 +1,30 @@
+/* Add your styles here! */
+
+.bad {
+  font-size: 10px;
+  line-height: .8;
+  max-width: 100%;
+  background-color: #444;
+  color: #aaa;
+}
+
+.good {
+  font-size: 20px;
+  line-height: 1.2;
+  max-width: 450px;
+  padding: 20px;
+  background-color: #eee;
+  color: #333;
+}
+
+
+/* leave these alone, these are default styles */
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+h1, h2 {
+  margin: 16px;
+}
